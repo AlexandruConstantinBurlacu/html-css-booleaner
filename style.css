@@ -6,6 +6,10 @@
     width: 75px;
 }
 
+span.grigio {
+    color: grey;
+}
+
 span.celeste {
     color: blue
 }

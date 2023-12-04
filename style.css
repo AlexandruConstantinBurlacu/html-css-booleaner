@@ -1,3 +1,16 @@
-span {
+.sfondo {
+    width: 100px;
+}
+
+.logo {
+    width: 75px;
+}
+
+span.celeste {
+    color: blue
+}
+
+span.evidenziatore {
     background-color: yellow;
 }
+

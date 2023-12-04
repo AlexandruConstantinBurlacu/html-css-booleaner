@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.sfondo {
+    background-image: url(pattern.jpg);
+    
+    background-color: lightskyblue;
+    background-repeat: repeat-x;
+}
+
+.logo {
+    width: 100px;
+}
+
